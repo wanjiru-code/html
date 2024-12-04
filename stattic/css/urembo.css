@@ -1,0 +1,19 @@
+h1{
+    color: forestgreen;
+    text-align: center;
+    font-size: 30px;
+    font-palette: inherit;
+    font-family: sans-serif;
+}
+table{
+    width: 100x;
+    border-collapse: collapse;
+}
+th,td{
+    border: 3px dotted red;
+    padding: 10px;
+}
+th{font-size: 20px;
+    color: blue;
+}
+

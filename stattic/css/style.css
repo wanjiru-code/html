@@ -1,0 +1,15 @@
+body{
+    background-color: #ac5330;
+    text-align: center;
+}
+ul{ list-style: -moz-repeating-linear-gradient();
+    padding: max();
+}
+a{
+    text-decoration: darkred;
+    font-size: medium;
+}
+head{
+    text-decoration: forestgreen;
+    font-size: clamp(new);
+}

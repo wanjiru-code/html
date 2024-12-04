@@ -1,0 +1,17 @@
+.cars {
+    border: 2px solid;
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 20px;
+}
+.fruits{border: 2px solid;
+    background-color: rebeccapurple;
+    margin: 20px;
+    padding: 20px;
+}
+.laptops{border: 2px dotted;
+    background-color: blueviolet;
+    margin: 20px;
+    padding: 20px;
+
+}
